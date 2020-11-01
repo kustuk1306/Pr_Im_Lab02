@@ -1,0 +1,23 @@
+﻿  main.cpp
+d:\codding\visual studio\pr_im_lab02\pr_im_lab02\main.cpp(61): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+d:\codding\visual studio\pr_im_lab02\pr_im_lab02\main.cpp(86): warning C4244: =: преобразование "float" в "_Tp", возможна потеря данных
+          with
+          [
+              _Tp=uchar
+          ]
+d:\codding\visual studio\pr_im_lab02\pr_im_lab02\main.cpp(87): warning C4244: =: преобразование "float" в "_Tp", возможна потеря данных
+          with
+          [
+              _Tp=uchar
+          ]
+d:\codding\visual studio\pr_im_lab02\pr_im_lab02\main.cpp(88): warning C4244: =: преобразование "float" в "_Tp", возможна потеря данных
+          with
+          [
+              _Tp=uchar
+          ]
+d:\codding\visual studio\pr_im_lab02\pr_im_lab02\main.cpp(83): warning C4101: y: неиспользованная локальная переменная
+d:\codding\visual studio\pr_im_lab02\pr_im_lab02\main.cpp(83): warning C4101: x: неиспользованная локальная переменная
+  Создание кода
+  All 141 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Создание кода завершено
+  Pr_Im_Lab02.vcxproj -> D:\codding\Visual Studio\Pr_Im_Lab02\x64\Release\Pr_Im_Lab02.exe
